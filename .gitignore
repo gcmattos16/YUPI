@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.spec
+*.log
+debug_*.txt
+dados/
+data/
+amostras_reais/
+*.pdf
+*.xlsx
+*.csv
+*.jsonl
