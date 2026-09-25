@@ -1,0 +1,5 @@
+FONTE_TITULO = ("Segoe UI", 28, "bold")
+FONTE_SUBTITULO = ("Segoe UI", 18)
+FONTE_CARD = ("Segoe UI", 18, "bold")
+FONTE_TEXTO = ("Segoe UI", 14)
+FONTE_STATUS = ("Segoe UI", 12)
